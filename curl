@@ -1,0 +1,2 @@
+
+curl --request POST --header "Content-Type:application/json" --data {\"temperature\":\"datatemperature\",\"date\":\"datadate\",\"user_response\":\"datauser_response\"} 127.0.0.1:8000/data
